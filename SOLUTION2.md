@@ -32,3 +32,7 @@ while true; do
   fi
 done
 
+echo "  /\\_/\\"
+echo " ( o.o )"
+echo "  > ^ <"
+
