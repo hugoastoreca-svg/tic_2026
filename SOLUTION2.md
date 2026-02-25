@@ -1,0 +1,4 @@
+# Welcome
+# Imprime texto en la terminal
+echo "Hola Mundo"
+
